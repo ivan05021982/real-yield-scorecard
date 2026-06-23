@@ -15,6 +15,9 @@ from on-chain data — putting the *advertised* APY next to two things it hides:
    days. A de-peg you can exit at a small loss is very different from one where
    the door is closing as you reach for it.
 
+**▶ Live dashboard:** https://dune.com/ivan_nania/real-yield-scorecard — the query
+and dashboard are public and forkable; the dashboard refreshes on its own.
+
 Both axes are reconstructed from a **single `dex.trades` scan** — no curated price
 oracle is required, which matters because the exotic underlyings where the traps
 live are *not* in Dune's `prices.usd`. Their USD price is recovered from each

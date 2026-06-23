@@ -1,0 +1,4 @@
+# For the validation scripts in scripts/ (the Dune query needs nothing local).
+pandas>=1.5
+numpy>=1.23
+requests>=2.28

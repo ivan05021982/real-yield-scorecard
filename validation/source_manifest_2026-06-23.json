@@ -1,0 +1,42 @@
+{
+  "snapshot_date": "2026-06-23",
+  "study": "lead_time",
+  "source": {
+    "provider": "DefiLlama coins API",
+    "endpoint": "https://coins.llama.fi/chart/{ids}?span={span}&period=1d",
+    "docs": "https://defillama.com/docs/api",
+    "auth": "none (free)"
+  },
+  "universe": {
+    "config": "validation/lead_time_tokens.json",
+    "n_tokens": 269,
+    "config_sha256": "sha256:5cae8646e06a125e967ed0ae0fda0eacfb6fd0843b3a919252371b57a619171a"
+  },
+  "method_params": {
+    "warn_pct": -2.0,
+    "severe_pct": -5.0,
+    "min_obs": 40,
+    "scope_gate": "median|log-return| <= 1.2% (peg-class only), median price in [0.3,3.0]",
+    "dedup": "distinct underlying (deepest trough per symbol)",
+    "nav": "causal cummax (yield-bearing) / $1 (stable)",
+    "despike": "rolling-7 median, 10% band"
+  },
+  "outputs": {
+    "events_csv": "validation/lead_time_events_2026-06-23.csv",
+    "events_sha256": "sha256:fbb16d4103d752f07ce4eb28146fd97c4551aa1dbd3a66de672fd8914fc07809"
+  },
+  "results_summary": {
+    "distinct_severe_episodes": 12,
+    "lead_median_days": 30,
+    "lead_mean_days": 56.8,
+    "ge_7d": "10/12",
+    "ge_14d": "9/12",
+    "sudden_le_1d_in_set": "1/12",
+    "note": "sudden single-day breaks are under-counted (de-spike masks them); set characterises gradual de-pegs"
+  },
+  "reproduce": [
+    "python scripts/fetch_defillama_price_history.py --config validation/lead_time_tokens.json --out validation/price_history.csv --span 400",
+    "python scripts/run_lead_time_study.py --prices validation/price_history.csv --config validation/lead_time_tokens.json --out validation/lead_time_events.csv"
+  ],
+  "note": "price history is regenerable via the fetch step; small drift vs the frozen CSV is expected as DefiLlama backfills/updates."
+}

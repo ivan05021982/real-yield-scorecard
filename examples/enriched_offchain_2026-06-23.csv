@@ -1,0 +1,49 @@
+symbol,chain,tvlM,adv_apy,depeg_now_pct,net_if_held%,exit_liq_14d,liq_chg_pct,n_markets,stato
+msUSD,ethereum,0.41,8.38,-75.01,-72.91,34477565.0,82.0,2.0,BROKEN
+apxUSD,ethereum,6.33,8.92,-10.74,-2.77,46017291.0,-83.0,4.0,BROKEN
+apyUSD,ethereum,7.84,25.2,-10.73,11.76,688801.0,-69.0,4.0,BROKEN
+sUSDat,ethereum,3.74,10.95,-9.63,0.27,25879614.0,-27.0,2.0,BROKEN
+stUSDS,ethereum,0.8,6.47,-3.41,2.84,11084340.0,96.0,2.0,WATCH
+msY,ethereum,1.99,14.12,-12.4,,2487.0,,2.0,~ thin/illiquid (depeg unverified)
+SUSDAT,bnb,2.96,14.98,-11.43,,50784.0,-80.0,2.0,~ thin/illiquid (depeg unverified)
+APXUSD,base,0.18,9.03,-10.76,,90802.0,-95.0,2.0,~ thin/illiquid (depeg unverified)
+ynRWAx,ethereum,0.78,13.19,-7.64,,88660.0,-77.0,2.0,~ thin/illiquid (depeg unverified)
+YOUSD,base,0.12,13.32,-7.18,,2138.0,,2.0,~ thin/illiquid (depeg unverified)
+sUSDD,ethereum,5.05,7.43,-0.76,,49528.0,-7.0,2.0,healthy
+savUSD,ethereum,0.89,7.54,-0.52,,354610.0,-76.0,2.0,healthy
+CUSDO,bnb,0.05,3.15,-0.31,,2668.0,,2.0,healthy
+fxSAVE,ethereum,1.18,8.17,-0.22,,308210.0,213.0,2.0,healthy
+USDe,ethereum,0.45,4.13,-0.12,,497708339.0,-14.0,2.0,healthy
+APXUSD,bnb,0.04,12.84,-0.12,,7281841.0,,2.0,healthy
+sNUSD,ethereum,6.08,6.17,-0.09,,954009.0,10.0,2.0,healthy
+cUSD,ethereum,1.53,6.5,-0.08,,2709680.0,131.0,2.0,healthy
+sUSDe,ethereum,9.47,4.42,-0.04,,102481750.0,-32.0,2.0,healthy
+USDAI,arbitrum,50.49,7.0,-0.04,,2438545.0,73.0,4.0,healthy
+USDat,ethereum,9.95,8.11,-0.03,,31057719.0,-67.0,2.0,healthy
+USDAT,bnb,2.74,8.6,-0.02,,1275565.0,-86.0,2.0,healthy
+USDG,ethereum,4.1,5.58,-0.02,,64272636.0,-66.0,2.0,healthy
+sUSDS,ethereum,6.04,5.01,0.0,,90462332.0,-59.0,2.0,healthy
+GUSDC,arbitrum,0.35,7.72,0.0,,1167.0,-90.0,2.0,healthy
+USP,ethereum,0.43,69.79,0.0,,162426.0,-45.0,2.0,healthy
+mHYPER,ethereum,,,0.0,,15305.0,,,healthy
+reUSDe,ethereum,3.71,36.78,0.0,,4931861.0,21.0,4.0,healthy
+reUSD,ethereum,3.56,23.5,0.0,,34832340.0,-29.0,4.0,healthy
+SUSDAI,arbitrum,14.11,9.36,0.0,,22196251.0,-4.0,4.0,healthy
+siUSD,ethereum,0.38,9.13,0.0,,96111.0,,2.0,healthy
+srUSDe,ethereum,7.42,5.64,2.22,,46823.0,-61.0,4.0,healthy
+SIERRA,ethereum,16.77,9.42,2.38,,38910.0,-66.0,2.0,healthy
+jrUSDe,ethereum,2.04,11.35,4.26,,31806.0,-40.0,4.0,healthy
+SKAITO,base,0.2,19.8,-58.73,,18260.0,,2.0,~ volatile (market risk)
+sENA,ethereum,3.03,13.86,-90.51,,896737.0,-39.0,2.0,~ non-USD-reference / out-of-scope
+uniETH,ethereum,0.36,6.3,-49.4,,102059.0,,2.0,~ non-USD-reference / out-of-scope
+pufETH,ethereum,0.68,7.53,-48.32,,135701.0,-41.0,2.0,~ non-USD-reference / out-of-scope
+WSTETH,arbitrum,0.36,2.83,-48.12,,4277229.0,-79.0,2.0,~ non-USD-reference / out-of-scope
+wstETH,ethereum,2.88,3.47,-47.77,,103774375.0,-59.0,4.0,~ non-USD-reference / out-of-scope
+RETH,arbitrum,1.46,2.78,-47.75,,718009.0,-15.0,2.0,~ non-USD-reference / out-of-scope
+weETH,ethereum,0.77,3.33,-47.68,,150975702.0,-21.0,2.0,~ non-USD-reference / out-of-scope
+weETHs,ethereum,1.02,6.45,-47.37,,655051.0,604.0,2.0,~ non-USD-reference / out-of-scope
+WEETH,arbitrum,1.57,3.6,-47.33,,3270920.0,-70.0,2.0,~ non-USD-reference / out-of-scope
+rswETH,ethereum,1.82,3.36,-47.09,,104059.0,17.0,2.0,~ non-USD-reference / out-of-scope
+swETH,ethereum,0.41,3.34,-46.97,,577078.0,-17.0,2.0,~ non-USD-reference / out-of-scope
+SLISBNBX,bnb,3.87,4.97,-37.59,,5975025.0,-60.0,2.0,~ non-USD-reference / out-of-scope
+STRCx,ethereum,0.61,30.25,0.0,,1227.0,,2.0,~ non-USD-reference / out-of-scope

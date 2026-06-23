@@ -1,0 +1,13 @@
+symbol,coin_id,asset_class,trough_pct,first_minus_2_date,bottom_date,lead_days,sudden_flag
+SAID,ethereum:0xbf3e030a77f215a77434f084392d9159a66963d2,yld,-63.1,2026-01-28,2026-02-10,13,False
+JRUSDAT,ethereum:0x906ac88054b40eaf5eabac0a92f83022f52c0032,stable,-45.6,2026-05-06,2026-06-20,45,False
+SUSDAI,arbitrum:0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62,yld,-43.9,2025-08-23,2026-03-27,216,False
+SUSDAT,ethereum:0xc689f76f90fe1762fac55983ff25ae71033a84f7,stable,-14.0,2026-04-12,2026-06-19,68,False
+GUSDC,arbitrum:0x0a9ed458e6c283d1e84237e3347333aa08221d09,yld,-13.4,2025-09-08,2025-10-04,26,False
+APYUSD,ethereum:0x38eeb52f0771140d10c4e9a9a72349a329fe8a6a,yld,-13.3,2026-06-03,2026-06-06,3,False
+APXUSD,ethereum:0x4f116ee5bcd227d1a1c4f57918d694a4abe7b3fc,stable,-11.9,2026-06-03,2026-06-18,15,False
+REUSDE,ethereum:0x47dfd0c8eee949748c1d5cb6b695a4aba5fe7379,yld,-9.1,2025-12-18,2026-06-04,168,False
+SYUSD,ethereum:0xfe0ccc9942e98c963fe6b4e5194eb6e3baa4cb64,yld,-8.8,2025-09-19,2025-09-19,0,True
+STCUSD,ethereum:0x88887be419578051ff9f4eb6c858a951921d8888,yld,-7.0,2026-01-14,2026-02-11,28,False
+CUSD,ethereum:0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce,yld,-6.9,2026-01-25,2026-02-27,33,False
+YOUSD,base:0x1fec97ca2817da87f266fd1741bba61caf7cde29,stable,-6.6,2026-03-12,2026-05-17,66,False

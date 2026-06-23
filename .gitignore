@@ -1,0 +1,10 @@
+# Generated validation outputs — regenerable via scripts/.
+# The dated, frozen snapshots (e.g. lead_time_events_2026-06-23.csv) ARE tracked.
+validation/price_history.csv
+validation/lead_time_events.csv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/

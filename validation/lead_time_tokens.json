@@ -1,0 +1,1078 @@
+[
+  {
+    "id": "arbitrum:0x0a1a1a107e45b7ced86833863f482bc5f4ed82ef",
+    "symbol": "USDAI"
+  },
+  {
+    "id": "arbitrum:0x0a9ed458e6c283d1e84237e3347333aa08221d09",
+    "symbol": "GUSDC"
+  },
+  {
+    "id": "arbitrum:0x0b2b2b2076d95dda7817e785989fe353fe955ef9",
+    "symbol": "SUSDAI"
+  },
+  {
+    "id": "arbitrum:0x30ccf4bbee313fcd19f3e295b3ba2920a24e2f62",
+    "symbol": "SUSDAI"
+  },
+  {
+    "id": "arbitrum:0x3362c1265a0522f321253708c9fb176f2274fa8d",
+    "symbol": "RETH"
+  },
+  {
+    "id": "arbitrum:0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "symbol": "WEETH"
+  },
+  {
+    "id": "arbitrum:0x3d15fd46ce9e551498328b1c83071d9509e2c3a0",
+    "symbol": "UNIETH"
+  },
+  {
+    "id": "arbitrum:0x5979d7b546e38e414f7e9822514be443a4800529",
+    "symbol": "WSTETH"
+  },
+  {
+    "id": "arbitrum:0x5b56f4bf94807b547eb5e7eba5cd8c033af83aed",
+    "symbol": "UNIETH"
+  },
+  {
+    "id": "arbitrum:0x5edcbc20cac67adc2e724d4348ff85132b085b82",
+    "symbol": "USDAI"
+  },
+  {
+    "id": "arbitrum:0x71fbf40651e9d4278a74586afc99f307f369ce9a",
+    "symbol": "WSTETH"
+  },
+  {
+    "id": "arbitrum:0x80c12d5b6cc494632bf11b03f09436c8b61cc5df",
+    "symbol": "WSTETH"
+  },
+  {
+    "id": "arbitrum:0x97c1a4ae3e0da8009aff13e3e3ee7ea5ee4afe84",
+    "symbol": "GUSDC"
+  },
+  {
+    "id": "arbitrum:0xa6c895eb332e91c5b3d00b7baeeaae478cc502da",
+    "symbol": "WEETH"
+  },
+  {
+    "id": "arbitrum:0xab7f3837e6e721abbc826927b655180af6a04388",
+    "symbol": "WEETH"
+  },
+  {
+    "id": "arbitrum:0xb459db106f645d698e74027eef6019a26a0675cc",
+    "symbol": "SUSDAI"
+  },
+  {
+    "id": "arbitrum:0xc0cf4b266be5b3229c49590b59e67a09c15b22f4",
+    "symbol": "RETH"
+  },
+  {
+    "id": "arbitrum:0xc9d24ad0bb25f34098e226a8c5192dea7bacccae",
+    "symbol": "USDAI"
+  },
+  {
+    "id": "arbitrum:0xd3443ee1e91af28e5fb858fbd0d72a63ba8046e0",
+    "symbol": "GUSDC"
+  },
+  {
+    "id": "arbitrum:0xd8d5fbbaad1e80aa0352b2029a594caeff6cf1ec",
+    "symbol": "UNIETH"
+  },
+  {
+    "id": "arbitrum:0xe9d07c2a3588b9a25edd55664be44ecfe5f92fce",
+    "symbol": "SUSDAI"
+  },
+  {
+    "id": "arbitrum:0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8",
+    "symbol": "RETH"
+  },
+  {
+    "id": "arbitrum:0xfaf260b16d3fa1609c74799089ad3cedfcd703fc",
+    "symbol": "USDAI"
+  },
+  {
+    "id": "base:0x0000000f2eb9f69274678c76222b35eec7588a65",
+    "symbol": "YOUSD"
+  },
+  {
+    "id": "base:0x1fec97ca2817da87f266fd1741bba61caf7cde29",
+    "symbol": "YOUSD"
+  },
+  {
+    "id": "base:0x3623567972ad7f44242ec354a38bdbacfc73aa42",
+    "symbol": "40ACRESUSDC"
+  },
+  {
+    "id": "base:0x45099d137c7a1f5b28bdc4443fdfecd842e1ddee",
+    "symbol": "APXUSD"
+  },
+  {
+    "id": "base:0x4b272672a58da22b213e733f5aba48cfec534d30",
+    "symbol": "SKAITO"
+  },
+  {
+    "id": "base:0x548d3b444da39686d1a6f1544781d154e7cd1ef7",
+    "symbol": "SKAITO"
+  },
+  {
+    "id": "base:0x5fab08f1ec79ca9c21c4516aa38a12ef2c42c0cc",
+    "symbol": "WSUPEROETHB"
+  },
+  {
+    "id": "base:0x65c3faaf6a25cb0311a29cce4b79bf8d37474342",
+    "symbol": "APXUSD"
+  },
+  {
+    "id": "base:0x67507f3e26e7e2fd0a42c48fbc85069ccfcbd2ff",
+    "symbol": "WSUPEROETHB"
+  },
+  {
+    "id": "base:0x73838d7ae05294b2f4d648971e33e812ee048f56",
+    "symbol": "UNIBTC"
+  },
+  {
+    "id": "base:0x7fcd174e80f264448ebee8c88a7c4476aaf58ea6",
+    "symbol": "WSUPEROETHB"
+  },
+  {
+    "id": "base:0x87244f834fc4f74266f6e1c247c7f0dfc8b21d81",
+    "symbol": "SKAITO"
+  },
+  {
+    "id": "base:0xc2e639ca5fcb8583bd9c85b07e21919850390f05",
+    "symbol": "40ACRESUSDC"
+  },
+  {
+    "id": "base:0xc45139488b7ab235affad981cbdb5c898581d04f",
+    "symbol": "UNIBTC"
+  },
+  {
+    "id": "base:0xd993935e13851dd7517af10687ec7e5022127228",
+    "symbol": "APXUSD"
+  },
+  {
+    "id": "base:0xe181aed8e14469231618504df46e8c069314589b",
+    "symbol": "YOUSD"
+  },
+  {
+    "id": "bsc:0x0af2b242a526447fefd6e29cd531ecb89616afd2",
+    "symbol": ""
+  },
+  {
+    "id": "bsc:0x27faf900007b4cba7803000251ec96bc69ff1bea",
+    "symbol": ""
+  },
+  {
+    "id": "bsc:0x64748ea3e31d0b7916f0ff91b017b9f404ded8ef",
+    "symbol": ""
+  },
+  {
+    "id": "bsc:0x7a657c50c6b640ecaab7bb8dad86344169bf8c16",
+    "symbol": ""
+  },
+  {
+    "id": "bsc:0xb0b84d294e0c75a6abe60171b70edeb2efd14a1b",
+    "symbol": ""
+  },
+  {
+    "id": "bsc:0xcd18d94fda553bb956d6130ad217b63ef65888d0",
+    "symbol": ""
+  },
+  {
+    "id": "bsc:0xe052823b4aefc6e230faf46231a57d0905e30ae0",
+    "symbol": ""
+  },
+  {
+    "id": "bsc:0xe10b8c2b029c3369f7a910710ed4fa2b25059674",
+    "symbol": ""
+  },
+  {
+    "id": "ethereum:0x011e55d2b28306458e37ca7e997c879bb25a455d",
+    "symbol": "JRUSDAT"
+  },
+  {
+    "id": "ethereum:0x012badcc6e824c2ea32bd5367ebda3be3402c9c5",
+    "symbol": "WEETHS"
+  },
+  {
+    "id": "ethereum:0x01ba69727e2860b37bc1a2bd56999c1afb4c15d8",
+    "symbol": "YNRWAX"
+  },
+  {
+    "id": "ethereum:0x0280c2534ff412086c64ad46df873ef86605bb6f",
+    "symbol": "EEARN"
+  },
+  {
+    "id": "ethereum:0x04f8dca7bccd8997ac57ca6fef7c705e17d6bcb6",
+    "symbol": "APYUSD"
+  },
+  {
+    "id": "ethereum:0x056b269eb1f75477a8666ae8c7fe01b64dd55ecc",
+    "symbol": "USD3"
+  },
+  {
+    "id": "ethereum:0x079c3469143804af5d0d645a878c371dbe8d038e",
+    "symbol": "FXSAVE"
+  },
+  {
+    "id": "ethereum:0x08efcc2f3e61185d0ea7f8830b3fec9bfa2ee313",
+    "symbol": "SNUSD"
+  },
+  {
+    "id": "ethereum:0x093bb931965e10af75349b97d133aa8dab81bb4a",
+    "symbol": "USD(MIDASMROX)"
+  },
+  {
+    "id": "ethereum:0x098697ba3fee4ea76294c5d6a466a4e3b3e95fe6",
+    "symbol": "USP"
+  },
+  {
+    "id": "ethereum:0x0a26e7ab5c554232314a8d459eff0ede72333f08",
+    "symbol": "WOETH"
+  },
+  {
+    "id": "ethereum:0x0caefeb807152fbd945bf947893e6feba5aed61b",
+    "symbol": "SAVUSD"
+  },
+  {
+    "id": "ethereum:0x0de1e4d8a6ab41be1955cbd94c6f70e2110c5e22",
+    "symbol": "SRMHYPER"
+  },
+  {
+    "id": "ethereum:0x0f700a1c6541021996a2c8aa00722d592ffe1322",
+    "symbol": "PRIME"
+  },
+  {
+    "id": "ethereum:0x0f83ff733b756435ef4433607ebef9fe28d53275",
+    "symbol": "JRNUSD"
+  },
+  {
+    "id": "ethereum:0x10c5e7711eaddc1b6b64e40ef1976fc462666409",
+    "symbol": "SNUSD"
+  },
+  {
+    "id": "ethereum:0x119dd7daff816f29d7ee47596ae5e4bdc4299165",
+    "symbol": "NOPAL"
+  },
+  {
+    "id": "ethereum:0x122b0b5d0c88840017896381816a8b03bec4806d",
+    "symbol": "SUSP"
+  },
+  {
+    "id": "ethereum:0x13945b761b2ed3219a497a46d15a8923f418d2ab",
+    "symbol": "FXSAVE"
+  },
+  {
+    "id": "ethereum:0x149bd983030e14e8b2f1ebdc8bbd9c419411fbc9",
+    "symbol": "SUSDD"
+  },
+  {
+    "id": "ethereum:0x18c11b1dc74cab82ad18d5034fde93fe90a41d99",
+    "symbol": "ASDCRV"
+  },
+  {
+    "id": "ethereum:0x18f52b3fb465118731d9e0d276d4eb3599d57596",
+    "symbol": "AID"
+  },
+  {
+    "id": "ethereum:0x19ebb35279a16207ec4ba82799cc64715065f7f6",
+    "symbol": "PRIME"
+  },
+  {
+    "id": "ethereum:0x1a69154f6f6247e4457332860fb173251a36e03f",
+    "symbol": "SIERRA"
+  },
+  {
+    "id": "ethereum:0x1aad217b8f78dba5e6693460e8470f8b1a3977f3",
+    "symbol": "STRCX"
+  },
+  {
+    "id": "ethereum:0x1c44f9be658bde68e7b4091e9bd349fc64724450",
+    "symbol": "STRCX"
+  },
+  {
+    "id": "ethereum:0x1cfaed2df5ee27b078e96fafa10709c5548fc1b7",
+    "symbol": "SUPERWETH"
+  },
+  {
+    "id": "ethereum:0x1d69402390657308c91179aa184bf992908c1e08",
+    "symbol": "USDAT"
+  },
+  {
+    "id": "ethereum:0x2168a9d89aec227f3b4b064ce9d92c5a07f6f900",
+    "symbol": "MSUSD"
+  },
+  {
+    "id": "ethereum:0x23238f20b894f29041f48d88ee91131c395aaa71",
+    "symbol": "USDAT"
+  },
+  {
+    "id": "ethereum:0x2500e6205e61102842b8794b291eb27ab32efe27",
+    "symbol": "MSY"
+  },
+  {
+    "id": "ethereum:0x253008ba4ae2f3e6488dc998a5321d4eb1a0c905",
+    "symbol": "PUFETH"
+  },
+  {
+    "id": "ethereum:0x27010ce8d14b4e73ef48af1cf9a5a91e8356d10f",
+    "symbol": "STCUSD"
+  },
+  {
+    "id": "ethereum:0x271c616157e69a43b4977412a64183cf110edf16",
+    "symbol": "SUSP"
+  },
+  {
+    "id": "ethereum:0x29ac34026c369d21fe3b2c7735ec986e2880b347",
+    "symbol": "NUSD"
+  },
+  {
+    "id": "ethereum:0x2a55c4ab3c6a3026651ae257f3c1c4238048ccda",
+    "symbol": "EEARN"
+  },
+  {
+    "id": "ethereum:0x2ae4f59e500b6ddeb88c480edf277eda54a00205",
+    "symbol": "REUSDE"
+  },
+  {
+    "id": "ethereum:0x2cd3b102fe872cb92decb8d3fad827c6b6e2364d",
+    "symbol": "SNUSD"
+  },
+  {
+    "id": "ethereum:0x2d3c279e5fcdf5b793c0a75ed90738d7369b0b83",
+    "symbol": "STCUSD"
+  },
+  {
+    "id": "ethereum:0x2d433b943fb8c015ae409444b7f960ed288082b4",
+    "symbol": "SRUSDAT"
+  },
+  {
+    "id": "ethereum:0x3069a30121dbbf37c88003b41204d6afaac7acbd",
+    "symbol": "USD(MIDASMAPOLLO)"
+  },
+  {
+    "id": "ethereum:0x38eeb52f0771140d10c4e9a9a72349a329fe8a6a",
+    "symbol": "APYUSD"
+  },
+  {
+    "id": "ethereum:0x399e426e6812943ac22976333698e16eaa80a209",
+    "symbol": "SIERRA"
+  },
+  {
+    "id": "ethereum:0x39fb0bb5d696ec6da2d827649cf3a3f00299d2dd",
+    "symbol": "SAID"
+  },
+  {
+    "id": "ethereum:0x3aecaedfb92efbbac95e5c458c56e94070cb9179",
+    "symbol": "SUPERWETH"
+  },
+  {
+    "id": "ethereum:0x3d7d6fdf07ee548b939a80edbc9b2256d0cdc003",
+    "symbol": "SRUSDE"
+  },
+  {
+    "id": "ethereum:0x3eaa0f0f0a5d3d595ae4e4b0d27f439d01c3e7b2",
+    "symbol": "REUSD"
+  },
+  {
+    "id": "ethereum:0x3eaf6c8425b40c554099beed4dcb9f4601942fcb",
+    "symbol": "CUSD"
+  },
+  {
+    "id": "ethereum:0x3ec43f4158d51df0928979c09eaf33cad287065c",
+    "symbol": "USDE"
+  },
+  {
+    "id": "ethereum:0x3f71ccce5641951cdaf573be760464a8fd74fe56",
+    "symbol": "SRNUSD"
+  },
+  {
+    "id": "ethereum:0x3ffaa9ce7cfa5688277b97bf6a8c22249404d129",
+    "symbol": "USP"
+  },
+  {
+    "id": "ethereum:0x42959e174fe28029de5ce250b58699229a3362b0",
+    "symbol": "SYUSD"
+  },
+  {
+    "id": "ethereum:0x4314107c44e8777d14185d6ac94e5fbcdf168203",
+    "symbol": "LOAZND"
+  },
+  {
+    "id": "ethereum:0x43e54c2e7b3e294de3a155785f52ab49d87b9922",
+    "symbol": "ASDCRV"
+  },
+  {
+    "id": "ethereum:0x457904b54f47dd7a91253f225237a5b02ca059d6",
+    "symbol": "USD(MIDASMHYPER)"
+  },
+  {
+    "id": "ethereum:0x460783e7917b191e80954edd674bf46f66e3015e",
+    "symbol": "JRMHYPER"
+  },
+  {
+    "id": "ethereum:0x47743a9203e636674467ff58b7ab0ae0ee6f97cb",
+    "symbol": "IUSD"
+  },
+  {
+    "id": "ethereum:0x47dfd0c8eee949748c1d5cb6b695a4aba5fe7379",
+    "symbol": "REUSDE"
+  },
+  {
+    "id": "ethereum:0x48f9e38f3070ad8945dfeae3fa70987722e3d89c",
+    "symbol": "IUSD"
+  },
+  {
+    "id": "ethereum:0x4ad88f62310d377c60f6b0c25bde8011f315eea7",
+    "symbol": "STRCX"
+  },
+  {
+    "id": "ethereum:0x4ba01f22827018b4772cd326c7627fb4956a7c00",
+    "symbol": "MSUSD"
+  },
+  {
+    "id": "ethereum:0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+    "symbol": "USDE"
+  },
+  {
+    "id": "ethereum:0x4d654f255d54637112844bd8802b716170904fee",
+    "symbol": "SUPERUSDC"
+  },
+  {
+    "id": "ethereum:0x4e5d7b6606f0746f3eb295e1bb6a93397fa059e7",
+    "symbol": "ARM-WETH-STETH"
+  },
+  {
+    "id": "ethereum:0x4f116ee5bcd227d1a1c4f57918d694a4abe7b3fc",
+    "symbol": "APXUSD"
+  },
+  {
+    "id": "ethereum:0x4f3f6283abf1253baab099c94fe13ae1ce8194f1",
+    "symbol": "ASDCRV"
+  },
+  {
+    "id": "ethereum:0x4f6673346ab4813f1665327ab39087008cc7d76f",
+    "symbol": "JRUSDE"
+  },
+  {
+    "id": "ethereum:0x5086bf358635b81d8c47c66d1c8b9e567db70c72",
+    "symbol": "REUSD"
+  },
+  {
+    "id": "ethereum:0x50bd66d59911f5e086ec87ae43c811e0d059dd11",
+    "symbol": "SBOLD"
+  },
+  {
+    "id": "ethereum:0x5271be3516a36316465ee50c4288ce91e58f7759",
+    "symbol": "YNRWAX"
+  },
+  {
+    "id": "ethereum:0x55dd420adbfd3773df958de3a262c0d7c409c0ea",
+    "symbol": "ETHIRD"
+  },
+  {
+    "id": "ethereum:0x57badd19a4756d0190bfcd8f444ae6ebcdb38e86",
+    "symbol": "NOPAL"
+  },
+  {
+    "id": "ethereum:0x57e16654b9e42ef4df30006e4c60f5a475a2f0e9",
+    "symbol": "STUSDS"
+  },
+  {
+    "id": "ethereum:0x5987440ec8fa7f8976fe5d324e052a3140c9f333",
+    "symbol": "SUSDF"
+  },
+  {
+    "id": "ethereum:0x59bc9fae5d62b19d4f8d07d758047acb9ee19d34",
+    "symbol": "SRUSDE"
+  },
+  {
+    "id": "ethereum:0x59c2c836ff229e52a0bcc164f5d4bd3f3d312be4",
+    "symbol": "SUSN"
+  },
+  {
+    "id": "ethereum:0x5a19fa369f2895dcd8d2cee62e4ceae58ef92bbb",
+    "symbol": "SUSDE"
+  },
+  {
+    "id": "ethereum:0x5d8975ca1626929c1b051abd6045f3a027541dcf",
+    "symbol": "LOAZND"
+  },
+  {
+    "id": "ethereum:0x5dbf246b37e1b9ac5d08bb38233d71322ae7d166",
+    "symbol": "IUSD"
+  },
+  {
+    "id": "ethereum:0x5e1ff5c857f1d2251600507f2031d2aa2a5fc468",
+    "symbol": "NOPAL"
+  },
+  {
+    "id": "ethereum:0x619d75e3b790ebc21c289f2805bb7177a7d732e2",
+    "symbol": "SRUSDE"
+  },
+  {
+    "id": "ethereum:0x627ea69929212916ec57b1b26d2e1a19f6129b53",
+    "symbol": "SRMHYPER"
+  },
+  {
+    "id": "ethereum:0x659c663cdcc068b56e4a5afe262cb92baa0f3e19",
+    "symbol": "MSY"
+  },
+  {
+    "id": "ethereum:0x65a44528e8868166401ea08b549e19552af589db",
+    "symbol": "SRNUSD"
+  },
+  {
+    "id": "ethereum:0x67e1f506b148d0fc95a4e3ffb49068ceb6855c05",
+    "symbol": "USD(MIDASMROX)"
+  },
+  {
+    "id": "ethereum:0x697c54a84d83f37380d034e2bfc6f7ce8d89f4ee",
+    "symbol": "TMVUSDC"
+  },
+  {
+    "id": "ethereum:0x6bf7788eaa948d9ffba7e9bb386e2d3c9810e0fc",
+    "symbol": "SIERRA"
+  },
+  {
+    "id": "ethereum:0x6cc3237ae1bbeba960c35b47b0424d34b6404037",
+    "symbol": "WEETHS"
+  },
+  {
+    "id": "ethereum:0x6f2aadcb972b2b84f6a1e109a1c89b3fa705232c",
+    "symbol": "NUSD"
+  },
+  {
+    "id": "ethereum:0x761353416187cd12cb5fcbf524ddda940705acc5",
+    "symbol": "SWETH"
+  },
+  {
+    "id": "ethereum:0x7703c5258c766b6dcf7885116cc699fe1cc3d7ef",
+    "symbol": "JRMHYPER"
+  },
+  {
+    "id": "ethereum:0x7743e50f534a7f9f1791dde7dcd89f7783eefc39",
+    "symbol": "FXSAVE"
+  },
+  {
+    "id": "ethereum:0x7786729eee8b9d30fe7d91fdff23a0f1d0c615d9",
+    "symbol": "RSWETH"
+  },
+  {
+    "id": "ethereum:0x77db49ac43107f0cef6f65837aa55ee8ae4cd9fa",
+    "symbol": "YNRWAX"
+  },
+  {
+    "id": "ethereum:0x797f9d67a878250e0aa572c41a8a4e862ad09d5c",
+    "symbol": "SYUSD"
+  },
+  {
+    "id": "ethereum:0x7a7de491e1be5287874904e2b7c8488249a4d0a9",
+    "symbol": "USDAT"
+  },
+  {
+    "id": "ethereum:0x7cf9dec92ca9fd46f8d86e7798b72624bc116c05",
+    "symbol": "USD(MIDASMAPOLLO)"
+  },
+  {
+    "id": "ethereum:0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "symbol": "WSTETH"
+  },
+  {
+    "id": "ethereum:0x7f47c3e6b2c00fc4eb4d5ae50d0ab0ab6888eb4d",
+    "symbol": "USD3"
+  },
+  {
+    "id": "ethereum:0x7ffba084cceaacd87ccd3af4e0cd61d956ed6182",
+    "symbol": "SAVUSD"
+  },
+  {
+    "id": "ethereum:0x82035c2f935c93d344b5f0904d8157409f0c3af4",
+    "symbol": "USD(MIDASMROX)"
+  },
+  {
+    "id": "ethereum:0x84013d1a574515b6a05a0e2392584d445d39d1df",
+    "symbol": "PUFETH"
+  },
+  {
+    "id": "ethereum:0x85b78aca6deae198fbf201c82daf6ca21942acc6",
+    "symbol": "ARM-WETH-STETH"
+  },
+  {
+    "id": "ethereum:0x86f6817c22a14393550b135710ea58f311e457ed",
+    "symbol": "HWHLP"
+  },
+  {
+    "id": "ethereum:0x88887be419578051ff9f4eb6c858a951921d8888",
+    "symbol": "STCUSD"
+  },
+  {
+    "id": "ethereum:0x890a5122aa1da30fec4286de7904ff808f0bd74a",
+    "symbol": "MSY"
+  },
+  {
+    "id": "ethereum:0x8917f8c7feb840b5837edc7e128123baa2f289f9",
+    "symbol": "SUSDAT"
+  },
+  {
+    "id": "ethereum:0x8be3460a480c80728a8c4d7a5d5303c85ba7b3b9",
+    "symbol": "SENA"
+  },
+  {
+    "id": "ethereum:0x8e8b8d3b2dca78cb04b9914b7ec1ad72f671f96d",
+    "symbol": "WEETH"
+  },
+  {
+    "id": "ethereum:0x8f9d4ebe233fc63a3aff867d32025d172e6b4a90",
+    "symbol": "AID"
+  },
+  {
+    "id": "ethereum:0x901d27211fcc74c6936c2eb6f6b04f2c127a194c",
+    "symbol": "SUSP"
+  },
+  {
+    "id": "ethereum:0x906ac88054b40eaf5eabac0a92f83022f52c0032",
+    "symbol": "JRUSDAT"
+  },
+  {
+    "id": "ethereum:0x917cee801a67f933f2e6b33fc0cd1ed2d5909d88",
+    "symbol": "WEETHS"
+  },
+  {
+    "id": "ethereum:0x92899026d06343929c61e0987e09caeea6873fe5",
+    "symbol": "JRNUSD"
+  },
+  {
+    "id": "ethereum:0x928fb6ed39100a92b2480f5cbb93453f98d9f4ce",
+    "symbol": "CUSD"
+  },
+  {
+    "id": "ethereum:0x9487bd5a3b16ecb5f3184453e3ee75b800141648",
+    "symbol": "REUSD"
+  },
+  {
+    "id": "ethereum:0x95fc228a926828b4d95f52c1d52b345e743153f0",
+    "symbol": "MHYPERBTC"
+  },
+  {
+    "id": "ethereum:0x9786a09cbb2efb23046542576ffd9a235aa3ca07",
+    "symbol": "JRUSDE"
+  },
+  {
+    "id": "ethereum:0x98a878b1cd98131b271883b390f68d2c90674665",
+    "symbol": "APXUSD"
+  },
+  {
+    "id": "ethereum:0x99cd4ec3f88a45940936f469e4bb72a2a701eeb9",
+    "symbol": "STUSDS"
+  },
+  {
+    "id": "ethereum:0x9b5528528656dbc094765e2abb79f293c21191b9",
+    "symbol": "USD(MIDASMHYPER)"
+  },
+  {
+    "id": "ethereum:0x9ce6478ef45bb1baac69efd8a3ea0ed110a43042",
+    "symbol": "WSTETH"
+  },
+  {
+    "id": "ethereum:0x9d0fc59f88acb85520a8cfb74c7fe141d8563185",
+    "symbol": "SRUSDAT"
+  },
+  {
+    "id": "ethereum:0x9d39a5de30e57443bff2a8307a4256c8797a3497",
+    "symbol": "SUSDE"
+  },
+  {
+    "id": "ethereum:0x9f30507c264cc6eb5be35b18ff9ad7b4539aa920",
+    "symbol": "SIUSD"
+  },
+  {
+    "id": "ethereum:0xa036823b9a24f63c32553367bf181ee04229c3ac",
+    "symbol": "SUPERWETH"
+  },
+  {
+    "id": "ethereum:0xa0a2c8c94bf30227f84af6e054025945a51d0eff",
+    "symbol": "SUSN"
+  },
+  {
+    "id": "ethereum:0xa26938b7eb9f097e23e73af30c8f2ad6d06e3c6a",
+    "symbol": "JRUSDAT"
+  },
+  {
+    "id": "ethereum:0xa36ecca8b7624d224f01cd6649c8afad3da12c3d",
+    "symbol": "SENA"
+  },
+  {
+    "id": "ethereum:0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+    "symbol": "SUSDS"
+  },
+  {
+    "id": "ethereum:0xa6142276526724cfaee9151d280385bdf43e0503",
+    "symbol": "LOAZND"
+  },
+  {
+    "id": "ethereum:0xa73fb4f3a3f3889e41387973afc542fa06785981",
+    "symbol": "SBOLD"
+  },
+  {
+    "id": "ethereum:0xa780d7f775b4eff6846a8c28981f086bc6a7d637",
+    "symbol": "SUSDF"
+  },
+  {
+    "id": "ethereum:0xa91751e6f7fba8a6a4f5a7803fabb85bca78b0d6",
+    "symbol": "HWHLP"
+  },
+  {
+    "id": "ethereum:0xa9ab6ec90ff9059cd0b2ff27c325835d9179f4f7",
+    "symbol": "PRIME"
+  },
+  {
+    "id": "ethereum:0xaa68ca9c69a4ff22203ce189ce4448d7401875e8",
+    "symbol": "SWETH"
+  },
+  {
+    "id": "ethereum:0xac0047886a985071476a1186be89222659970d65",
+    "symbol": "WEETH"
+  },
+  {
+    "id": "ethereum:0xaf687b5ecb525ccea96115088999b4ed80c388b6",
+    "symbol": "APXUSD"
+  },
+  {
+    "id": "ethereum:0xb253eff1104802b97ac7e3ac9fdd73aece295a2c",
+    "symbol": "WSTETH"
+  },
+  {
+    "id": "ethereum:0xb3538aab6a46572b118692a05915582857d6bc17",
+    "symbol": "MTBILL"
+  },
+  {
+    "id": "ethereum:0xb3b3c527ba57cd61648e2ec2f5e006a0b390a9f8",
+    "symbol": "SAID"
+  },
+  {
+    "id": "ethereum:0xb4433d1bf3084e4e8ee1cf24ae2c580e6c45ebee",
+    "symbol": "TMVUSDC"
+  },
+  {
+    "id": "ethereum:0xb5be35d8ff83d431899b95851cb17a2b4bcef150",
+    "symbol": "APYUSD"
+  },
+  {
+    "id": "ethereum:0xb8d89678e75a973e74698c976716308abb8a46a4",
+    "symbol": "SAVUSD"
+  },
+  {
+    "id": "ethereum:0xb9950954d965550fabbe635a8ccb7ee1fe8d7353",
+    "symbol": "UNIBTC"
+  },
+  {
+    "id": "ethereum:0xb9b3a5823dfdb39389f50742ee7bb81cf0be56cb",
+    "symbol": "SENA"
+  },
+  {
+    "id": "ethereum:0xba41c7e27abf380ab1d529bb1275fadfccdbf437",
+    "symbol": "UNIBTC"
+  },
+  {
+    "id": "ethereum:0xbb6cdb98a2f8a9fb431fd1073eaa0a51422ac30d",
+    "symbol": "SIUSD"
+  },
+  {
+    "id": "ethereum:0xbcae2eb1cc47f137d8b2d351b0e0ea8dda4c6184",
+    "symbol": "ARM-WETH-STETH"
+  },
+  {
+    "id": "ethereum:0xbe3d4ec488a0a042bb86f9176c24f8cd54018ba7",
+    "symbol": "SUSDS"
+  },
+  {
+    "id": "ethereum:0xbf3e030a77f215a77434f084392d9159a66963d2",
+    "symbol": "SAID"
+  },
+  {
+    "id": "ethereum:0xbf98480425a29197e5d99d003017f63a1e595d02",
+    "symbol": "SUSDE"
+  },
+  {
+    "id": "ethereum:0xc1799cab1f201946f7cfafbaf1bcc089b2f08927",
+    "symbol": "USDG"
+  },
+  {
+    "id": "ethereum:0xc1906aecf868749a2dee203f59b904c0cf212140",
+    "symbol": "USDG"
+  },
+  {
+    "id": "ethereum:0xc284869087c70f2f4c3167b7cb221ebb1e84dd41",
+    "symbol": "MTBILL"
+  },
+  {
+    "id": "ethereum:0xc430db19339a3051192233b4c49f9ab3dc6d16b7",
+    "symbol": "UNIETH"
+  },
+  {
+    "id": "ethereum:0xc58d044404d8b14e953c115e67823784dea53d8f",
+    "symbol": "JRUSDE"
+  },
+  {
+    "id": "ethereum:0xc5d6a7b61d18afa11435a889557b068bb9f29930",
+    "symbol": "SUSDD"
+  },
+  {
+    "id": "ethereum:0xc689f76f90fe1762fac55983ff25ae71033a84f7",
+    "symbol": "SUSDAT"
+  },
+  {
+    "id": "ethereum:0xc8495eaff71d3a563b906295fcf2f685b1783085",
+    "symbol": "MHYPERBTC"
+  },
+  {
+    "id": "ethereum:0xc8cf6d7991f15525488b2a83df53468d682ba4b0",
+    "symbol": "SUSDF"
+  },
+  {
+    "id": "ethereum:0xc8ff5a1d899c2a453c6f10f4ea87978726cf9f63",
+    "symbol": "MHYPERBTC"
+  },
+  {
+    "id": "ethereum:0xc9bfebc79a722c05dc34bd2a227ef2db19fd1b8e",
+    "symbol": "SRUSDE"
+  },
+  {
+    "id": "ethereum:0xcbc72d92b2dc8187414f6734718563898740c0bc",
+    "symbol": "WSTETH"
+  },
+  {
+    "id": "ethereum:0xcccc62962d17b8914c62d74ffb843d73b2a3cccc",
+    "symbol": "CUSD"
+  },
+  {
+    "id": "ethereum:0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee",
+    "symbol": "WEETH"
+  },
+  {
+    "id": "ethereum:0xce789b855ff263d86cee15d8bf5eba9ba6e2d066",
+    "symbol": "RSWETH"
+  },
+  {
+    "id": "ethereum:0xd04ac06922736f01c1542ba0f1df961f92adcf40",
+    "symbol": "ETHIRD"
+  },
+  {
+    "id": "ethereum:0xd166337499e176bbc38a1fbd113ab144e5bd2df7",
+    "symbol": "SUSDAT"
+  },
+  {
+    "id": "ethereum:0xd28b0d694b8e814fa905a8b480b30691e18396eb",
+    "symbol": "APXUSD"
+  },
+  {
+    "id": "ethereum:0xd2af830e8cbdfed6cc11bab697bb25496ed6fa62",
+    "symbol": "WOUSD"
+  },
+  {
+    "id": "ethereum:0xd341a146a4fd20ea89898e4d86ae1829bf3a1c23",
+    "symbol": "SUSDD"
+  },
+  {
+    "id": "ethereum:0xd46fdff6d4d4e19c3e6d31ce2bf2239ba07bf71c",
+    "symbol": "JRUSDE"
+  },
+  {
+    "id": "ethereum:0xd4e6ea03d2e8bfeb5fa5c03ae9352514b1829218",
+    "symbol": "SUPERUSDC"
+  },
+  {
+    "id": "ethereum:0xd7a8fc30e2e5f196c076f00eb2edc835528be564",
+    "symbol": "STUSDS"
+  },
+  {
+    "id": "ethereum:0xd7baa983d2a44409b4b8f23fc1152368bc5f10ad",
+    "symbol": "SBOLD"
+  },
+  {
+    "id": "ethereum:0xd9a442856c234a39a81a089c06451ebaa4306a72",
+    "symbol": "PUFETH"
+  },
+  {
+    "id": "ethereum:0xdb8f1d15880b97dc38edfa46d8a5a7e5b506c45f",
+    "symbol": "SRNUSD"
+  },
+  {
+    "id": "ethereum:0xdbdc1ef57537e34680b898e1febd3d68c7389bcb",
+    "symbol": "SIUSD"
+  },
+  {
+    "id": "ethereum:0xdc169abe56461a2e0c034da431ac2a3ebf596094",
+    "symbol": "SUSDS"
+  },
+  {
+    "id": "ethereum:0xdc5c65c0ca7948fb3013f5ab9435bba02a2ac4e8",
+    "symbol": "TMVUSDC"
+  },
+  {
+    "id": "ethereum:0xdc9a5a2e3ce7ac881fc3b28c629c05d1617d1c56",
+    "symbol": "REUSDE"
+  },
+  {
+    "id": "ethereum:0xdcee70654261af21c44c093c300ed3bb97b78192",
+    "symbol": "WOETH"
+  },
+  {
+    "id": "ethereum:0xdd629e5241cbc5919847783e6c96b2de4754e438",
+    "symbol": "MTBILL"
+  },
+  {
+    "id": "ethereum:0xddc0f880ff6e4e22e4b74632fbb43ce4df6ccc5a",
+    "symbol": "REUSDE"
+  },
+  {
+    "id": "ethereum:0xdf7962c3aebea91067fb4179f8bdd8df40b4e9ed",
+    "symbol": "USD3"
+  },
+  {
+    "id": "ethereum:0xe1e22d55e23900f30599d8bee74a0801f09b4e58",
+    "symbol": "USD(MIDASMAPOLLO)"
+  },
+  {
+    "id": "ethereum:0xe22deabf5b174437092ae9ac79761b03ef178ca8",
+    "symbol": "WOUSD"
+  },
+  {
+    "id": "ethereum:0xe24a3dc889621612422a64e6388927901608b91d",
+    "symbol": "SUSN"
+  },
+  {
+    "id": "ethereum:0xe343167631d89b6ffc58b88d6b7fb0228795491d",
+    "symbol": "USDG"
+  },
+  {
+    "id": "ethereum:0xe556aba6fe6036275ec1f87eda296be72c811bce",
+    "symbol": "NUSD"
+  },
+  {
+    "id": "ethereum:0xea3bc608f32847b97965c5e1648bdfcd4c2c40d0",
+    "symbol": "USD3"
+  },
+  {
+    "id": "ethereum:0xeb205d26e9e605ec82d1c0d652e00037c278714b",
+    "symbol": "JRMHYPER"
+  },
+  {
+    "id": "ethereum:0xeccde3a92f8ad4884a2613d9ef1556103c26728f",
+    "symbol": "WOUSD"
+  },
+  {
+    "id": "ethereum:0xecfafdc7741323a945a163ed068b5a3c43483957",
+    "symbol": "REUSD"
+  },
+  {
+    "id": "ethereum:0xee5c7cda577484b70b65c21235ecbd302bb290e2",
+    "symbol": "APYUSD"
+  },
+  {
+    "id": "ethereum:0xf0bacd9c3d94fc924dbcaaf644208c4e3f4d3bb4",
+    "symbol": "USDE"
+  },
+  {
+    "id": "ethereum:0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4",
+    "symbol": "UNIETH"
+  },
+  {
+    "id": "ethereum:0xf1c9a56010b76ed39a3dca7e3bb25d7ed75e61c1",
+    "symbol": "UNIETH"
+  },
+  {
+    "id": "ethereum:0xf3d25ad78fc5b99cc489c648e190aeebac1bd951",
+    "symbol": "MSUSD"
+  },
+  {
+    "id": "ethereum:0xf5145335540c4116956c0936b7db08d1a862a2d9",
+    "symbol": "USP"
+  },
+  {
+    "id": "ethereum:0xf6ebea08a0dfd44825f67fa9963911c81be2a947",
+    "symbol": "SUPERUSDC"
+  },
+  {
+    "id": "ethereum:0xf951e335afb289353dc249e82926178eac7ded78",
+    "symbol": "SWETH"
+  },
+  {
+    "id": "ethereum:0xfaa9a0e1db9e22ae3a20b2b58a68dc24d053d066",
+    "symbol": "SRUSDAT"
+  },
+  {
+    "id": "ethereum:0xfae103dc9cf190ed75350761e95403b7b8afa6c0",
+    "symbol": "RSWETH"
+  },
+  {
+    "id": "ethereum:0xfae86383d512722a50192d9e6b414dc3f067519c",
+    "symbol": "USD(MIDASMHYPER)"
+  },
+  {
+    "id": "ethereum:0xfb71d1e85048fbe2149edbf7ca1d7797dfb1fefb",
+    "symbol": "SRMHYPER"
+  },
+  {
+    "id": "ethereum:0xfc807058a352b61aeef6a38e2d0fc3990225e772",
+    "symbol": "JRNUSD"
+  },
+  {
+    "id": "ethereum:0xfd737331e7248b32d13e7273800130b5d85629a3",
+    "symbol": "AID"
+  },
+  {
+    "id": "ethereum:0xfe0ccc9942e98c963fe6b4e5194eb6e3baa4cb64",
+    "symbol": "SYUSD"
+  },
+  {
+    "id": "ethereum:0xfe63a5d72375b670803020c31d3e1236c5bd123b",
+    "symbol": "WOETH"
+  },
+  {
+    "id": "monad:0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+    "symbol": "AUSD"
+  },
+  {
+    "id": "monad:0x103222f020e98bba0ad9809a011fdf8e6f067496",
+    "symbol": "EARNAUSD"
+  },
+  {
+    "id": "plasma:0x193b2f36957f7e9e498758bbf182273bc145bb92",
+    "symbol": "SYZUSD"
+  },
+  {
+    "id": "plasma:0x211cc4dd073734da055fbf44a2b4667d5e5fe5d2",
+    "symbol": "SUSDE"
+  },
+  {
+    "id": "plasma:0x30aafa3878bccac1db73d846bfcdfedfdd5cc913",
+    "symbol": "SYZUSD"
+  },
+  {
+    "id": "plasma:0x5edcbc20cac67adc2e724d4348ff85132b085b82",
+    "symbol": "YZUSD"
+  },
+  {
+    "id": "plasma:0x6695c0f8706c5ace3bdf8995073179cca47926dc",
+    "symbol": "YZUSD"
+  },
+  {
+    "id": "plasma:0x9838b0450e311962aed969ba7d0fe0bb9d8620eb",
+    "symbol": "SUSDE"
+  },
+  {
+    "id": "plasma:0xc8a8df9b210243c55d31c73090f06787ad0a1bf6",
+    "symbol": "SYZUSD"
+  },
+  {
+    "id": "plasma:0xd2e8488b8aa076db8227a459d47288b0bbcf9779",
+    "symbol": "YZUSD"
+  },
+  {
+    "id": "plasma:0xf7fb83435f455bd970f2d9f943f4eece1941b3e9",
+    "symbol": "SUSDE"
+  }
+]

@@ -183,17 +183,9 @@ scored AS (
 SELECT
     s.symbol,
     s.blockchain                   AS chain,
-    round(s.med_price, 4)          AS med_price,
-    round(s.realized_vol * 100, 3) AS realized_vol_pct,
-    round(s.price, 4)              AS last_price,
-    round(s.nav_ref, 4)            AS nav_ref,
-    round(s.depeg_pct, 2)          AS depeg_now_pct,
-    round(s.vol_14d, 0)            AS exit_liq_14d,
-    round(s.vol_prev_14d, 0)       AS vol_prev_14d,
-    CASE WHEN s.vol_prev_14d > 0
-         THEN round((s.vol_14d / s.vol_prev_14d - 1.0) * 100, 0) END AS liq_chg_pct,
-    -- honest gating: structural scope (non-USD reference) -> never-pegged
-    -- volatile -> liquidity floor (a -X% on trivial volume is noise) -> de-peg.
+    -- stato first (the headline read): honest gating, structural scope (non-USD
+    -- reference) -> never-pegged volatile -> liquidity floor (a -X% on trivial
+    -- volume is noise) -> de-peg.
     CASE
         WHEN s.med_price > 3.0 OR s.med_price < 0.3 THEN '~ non-USD-reference / out-of-scope'
         WHEN s.realized_vol > 0.012                 THEN '~ volatile (market risk)'
@@ -201,7 +193,16 @@ SELECT
         WHEN s.depeg_pct < -8.0                     THEN 'BROKEN'
         WHEN s.depeg_pct < -1.5                     THEN 'WATCH'
         ELSE 'healthy'
-    END AS stato
+    END                            AS stato,
+    round(s.depeg_pct, 2)          AS depeg_now_pct,
+    round(s.vol_14d, 0)            AS exit_liq_14d,
+    CASE WHEN s.vol_prev_14d > 0
+         THEN round((s.vol_14d / s.vol_prev_14d - 1.0) * 100, 0) END AS liq_chg_pct,
+    round(s.med_price, 4)          AS med_price,
+    round(s.realized_vol * 100, 3) AS realized_vol_pct,
+    round(s.price, 4)              AS last_price,
+    round(s.nav_ref, 4)            AS nav_ref,
+    round(s.vol_prev_14d, 0)       AS vol_prev_14d
 FROM scored s
 WHERE s.d = s.last_d                              -- latest snapshot per (token, chain)
 ORDER BY (s.med_price > 3.0 OR s.med_price < 0.3), s.realized_vol > 0.012, s.depeg_pct ASC
